@@ -1,0 +1,16 @@
+{
+    "name": "FC2",
+    "version": "1.0.0",
+    "description": "Un bot pour la communauté freecodecamp francophone ",
+    "main": "bot.js",
+    "author": "Mathis Barré",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    },
+    "scripts": {
+        "livestart":"nodemon bot.js"
+    }
+}
